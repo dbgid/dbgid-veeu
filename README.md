@@ -4,7 +4,7 @@ and use it for learn purepose only.<br>
 please consider using this project only for
 pentesters.<br>
 
-# feature
+# Feature
 • Daily check in<br>
 • Watching Videos With Multiple Account<br>
 • Direct Invite Friend Bypass 3 Minutes<br>
@@ -46,7 +46,7 @@ pkg install php nano [enter]<br>
 if proccess was done<br>
 change dir to path your installation this scripts<br>
 example:<br>
-cd /sdcard/dbgid-veeu-master [enter]
+cd /sdcard/dbgid-veeu-master [enter]<br>
 nano token.php [enter]<br>
 input your token at $auth_token='here you token';<br>
 if was done, press ctrl+o then ctrl+x for finished edit<br>
