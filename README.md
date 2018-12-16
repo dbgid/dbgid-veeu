@@ -74,7 +74,7 @@ then change dir to "dbgid-veeu-master"<br>
 cd /sdcard/pathyourfolderafterclone/dbgid-veeu-master [enter]<br>
 //root@android:/sdcard/pathyourfolderafterclone/dbgid-veeu-master<br>
 sh token.sh [enter]<br>
-you can get auth_token easy way and token saved as txy file<br>
+you can get auth_token easy way and token saved as txt file<br>
 default stored of token is: /sdcard/ and file name is : token.txt<br>
 you have to push this scripts into /system/xbin<br>
 follow this command:<br>
