@@ -1,7 +1,7 @@
 # NOTICE
-this project only for terminal linux/android with termux<br>
+this repo only for terminal linux/android with termux<br>
 and use it for learn purepose only.<br>
-please consider using this project only for
+please consider using this repo only for
 pentesters.<br>
 
 # Feature
