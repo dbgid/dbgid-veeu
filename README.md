@@ -17,7 +17,7 @@ using git:<br>
 git clone https://github.com/dbgid/dbgid-veeu.git<br>
 <br>
 wait until proccess clone was successfully<br>
-if was done, you will see folder "dbgid-veeu-master"<br>
+if was done, you will see folder "dbgid-veeu"<br>
 
 download file:<br>
 visit https://github.com/dbgid/dbgid-veeu then download<br>
