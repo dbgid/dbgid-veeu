@@ -46,7 +46,7 @@ pkg install php nano [enter]<br>
 if proccess was done<br>
 change dir to path your installation this scripts<br>
 example:<br>
-cd /sdcard/dbgid-veeu-master [enter]<br>
+cd /sdcard/dbgid-veeu [enter]<br>
 nano token.php [enter]<br>
 input your token at $auth_token='here you token';<br>
 if was done, press ctrl+o then ctrl+x for finished edit<br>
@@ -70,7 +70,7 @@ usage:<br>
 open terminal emulator -> then input command like bellow:<br>
 su [enter]
 //root@android:/<br>
-then change dir to "dbgid-veeu-master"<br>
+then change dir to "dbgid-veeu"<br>
 cd /sdcard/pathyourfolderafterclone/dbgid-veeu-master [enter]<br>
 //root@android:/sdcard/pathyourfolderafterclone/dbgid-veeu-master<br>
 sh token.sh [enter]<br>
